@@ -1,9 +1,9 @@
 @isTest
-global class PostSlackMessageTestMock {
+public class PostSlackMessageTestMock {
     
-    global class SuccessfulResponseMock implements HttpCalloutMock {
+    public class SuccessfulResponseMock implements HttpCalloutMock {
         
-        global HttpResponse respond(HttpRequest req) {
+        public HttpResponse respond(HttpRequest req) {
             
             String body = 
             '{' +
