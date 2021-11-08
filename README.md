@@ -1,9 +1,14 @@
 
-## Invocable-Method-For-Slack
-Post to Slack channels as a bot by way of declarative or custom development. 
-Post to Slack workflows, passing variable values, by way of declarative or custom development. 
-A great tool for admins wishing to post from flow to Slack without writing code.
-This is a general purpose "salesforce-to-slack" "Invocable Action".
+# Invocable Method For Slack
+
+<a href="https://githubsfdeploy.herokuapp.com?owner=rogeramitchell&repo=Invocable-Method-For-Slack">
+    <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
+- Post to Slack channels as a bot by way of declarative or custom development. 
+- Post to Slack workflows, passing variable values, by way of declarative or custom development. 
+- A great tool for admins wishing to post from flow to Slack without writing code.
+- This is a general purpose "salesforce-to-slack" "Invocable Action".
 
 # Steps to Implement
 
